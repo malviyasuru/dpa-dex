@@ -25,7 +25,7 @@
 
 ## 1. Introduction
 
-DPA-DEX (Data Partnership & Data Exchange) is an intelligent, privacy-preserving data exchange platform built to enable secure, consent-driven, and policy-compliant data sharing across organisations, sectors, and jurisdictions.
+DPA-DEX is an intelligent, privacy-preserving data exchange platform built to enable secure, consent-driven, and policy-compliant data sharing across organisations, sectors, and jurisdictions.
 
 At its core, DPA-DEX uses a **multi-agent architecture** — a coordinated system of 12 autonomous AI agents operating across 5 architectural planes. Every data access request, from the moment a user submits a natural language objective to the moment results are returned, is governed by this agent network. No data moves without consent. No computation runs without a policy signal. No decision is made without an audit trail.
 
